@@ -1,2 +1,2 @@
-# Pathrise-Project
-The main goal of our analysis is to derive insights around if a fellow will ultimately be placed at a company and how long until a placement can be expected.
+# Salary_Prediction
+The goal is to predict the salary of data related positions based on location, company review and job title
